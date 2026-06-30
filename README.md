@@ -2,7 +2,7 @@
 **A Data Analyst**
 ---
 ***ABOUT ME***
-- I am an aspiring Data Analyst with an MBA in information Techonology. I wnjoy transforming raw data into meaningful insights using 
+- I am an aspiring Data Analyst with an MBA in information Techonology and NISM Research Analyst(RA). I wnjoy transforming raw data into meaningful insights using 
 Python, SQL ,Excel, Power BI ,Machine learning. I am continuously learning and building real world project to strengthen my analytical skills, 
 and seeking opportunities to grow as a individualy and professionally as data analyst.
 
